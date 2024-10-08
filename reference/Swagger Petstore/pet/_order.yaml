@@ -4,5 +4,6 @@
 - findpetsbystatus
 - findpetsbytags
 - getpetbyid
+- newpage
 - updatepetwithform
 - deletepet
