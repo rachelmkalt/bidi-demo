@@ -1,0 +1,8 @@
+- createuserswithlistinput
+- getuserbyname
+- updateuser
+- deleteuser
+- loginuser
+- logoutuser
+- createuserswitharrayinput
+- createuser
